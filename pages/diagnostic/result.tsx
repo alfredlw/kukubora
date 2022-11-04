@@ -43,7 +43,7 @@ function Result() {
           <div className="col-span-2 pt-20">
             <h1 className="text-4xl">Resultats</h1>
             <h3 className="font-semibold ">
-              D'apres les informations que vous avez fournie pendant le
+              D&apos;apres les informations que vous avez fournie pendant le
               diagnostique:
             </h3>
             <div className="p-5">
@@ -121,12 +121,12 @@ function Result() {
                 )}
                 <li className="list-disc list-inside text-gray-600">Hygiene</li>
                 <li className="list-disc list-inside text-gray-600">
-                  Evitez de laisser vos poules aller en dehors de l'enclos sans
+                  Evitez de laisser vos poules aller en dehors de l&apos;enclos sans
                   controle
                 </li>
                 <li className="list-disc list-inside text-gray-600">
-                  Nous vous suggerons d'aller voir un medecin veterinaire
-                  specialiste pour d'autres questions
+                  Nous vous suggerons d&apos;aller voir un medecin veterinaire
+                  specialiste pour d&apos;autres questions
                 </li>
               </ul>
             </div>

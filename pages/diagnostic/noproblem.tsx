@@ -42,13 +42,13 @@ function NoProblem() {
             <div className="col-span-2 pt-20">
               <h1 className="text-4xl">Resultats</h1>
               <h3 className="font-semibold ">
-                Comme votre poule ne presente aucun symptôme c'est dificile pour nous de vous aider. sinon:
+                Comme votre poule ne presente aucun symptôme c&apos;est dificile pour nous de vous aider. sinon:
               </h3>
               <div className="p-5">
               <h6 className="text-lg text-yellow-500 font-semibold "></h6>
                 <ul className="pl-5 mt-2">
                   <li className=" list-inside text-gray-600">
-                  Votre poule n'a rien comme maladie
+                  Votre poule n&apos;a rien comme maladie
                   </li>
                 </ul>
               </div>
@@ -57,13 +57,13 @@ function NoProblem() {
                 
                 <ul className="pl-5 mt-2">
                   <li className=" list-inside list-decimal text-gray-600">
-                  Prennez soin de l'hygiene de vos poule 
+                  Prennez soin de l&apos;hygiene de vos poule 
                   </li>
                   <li className="list-disc list-inside text-gray-600">
-                  Evitez de laisser vos poules aller en dehors de l'enclos sans controle
+                  Evitez de laisser vos poules aller en dehors de l&apos;enclos sans controle
                   </li>
                   <li className="list-disc list-inside text-gray-600">
-                  Nous vous suggerons d'aller voir un medecin veterinaire specialiste pour d'autres questions
+                  Nous vous suggerons d&apos;aller voir un medecin veterinaire specialiste pour d&apos;autres questions
                   </li>
                 </ul>
                 {/* <p>
