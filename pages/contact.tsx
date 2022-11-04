@@ -16,13 +16,13 @@ export default function Contact() {
             <h6 className="font-bold text-xl text-yellow-400">Nos contacts</h6>
             <h3>Pour un traitement approprié de vos poules.</h3>
             <ul className=" list-disc pl-10 mt-3">
-              <a href="tel:+243977883417" target="_blank">
+              <a href="tel:+243977883417" target="_blank" rel="noreferrer">
                 <li>+243 977 883 417</li>
               </a>
-              <a href="tel:+243826764127" target="_blank">
+              <a href="tel:+243826764127" target="_blank" rel="noreferrer">
                 <li>+243 826 764 127</li>
               </a>
-              <a href="mailto:zetasepika@gmail.com" target="_blank">
+              <a href="mailto:zetasepika@gmail.com" target="_blank" rel="noreferrer">
                 <li>zetasepika@gmail.com</li>
               </a>
             </ul>
